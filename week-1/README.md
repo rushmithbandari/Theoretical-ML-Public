@@ -32,7 +32,15 @@ After completing the lectures, proceed with the following practical work:
    - Experiment with different datasets  
    - Although the perceptron is a relatively simple algorithm, it is great for building intuition and experimenting with decision boundaries.
 
-2. **(To be continued…)**
+2. **Linear regression**
+   - In this assignment you will have to implement linear regression using gradient descent,fill in the code snippets in the "Week1_assignment2" notebook
+   - We will be using Pytorch library for this assignment , you can go through its documentation [here](https://docs.pytorch.org/docs/stable/index.html) 
+   - Use the following command on the linux terminal to install the Pytorch package 
+   ```
+   pip install torch
+   ```
+
+3. **(To be continued…)**
    - Additional exercises and extensions will be added here.
 
 ---
